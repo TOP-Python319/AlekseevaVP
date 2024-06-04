@@ -38,3 +38,6 @@
 # for line in file:
 #     lines +=1
 #     print (lines, line)
+
+
+# Работа принята и проверена!
